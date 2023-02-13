@@ -68,7 +68,7 @@ int shell_exit(char ** args){
  */
 int shell_help(char ** args){
 	printf("\nA mini implementation of the Unix Shell by Ashwitha Yadav T.\n");
-	printf("\nCommands implemented: ");
+	printf("\nCommand implemented: ");
 	printf("\n\t- help");
 	printf("\n\t- exit");
 	printf("\n\t- cd dir");
